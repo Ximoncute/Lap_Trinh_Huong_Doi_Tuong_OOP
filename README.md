@@ -8,9 +8,9 @@ Tài liệu này hướng dẫn chi tiết những gì bạn cần tải xuống
 
 Để chạy dự án này, bạn **chỉ cần tải duy nhất 1 phần mềm** sau:
 
-### 📥 Java Development Kit (JDK) 21
+### 📥 Java Development Kit (JDK) 25
 * **Lý do**: Đây là môi trường chạy mã nguồn Java của dự án.
-* **Link tải chính thức**: [Tải JDK 21 từ Oracle](https://www.oracle.com/java/technologies/downloads/#java21) (Chọn phiên bản phù hợp với hệ điều hành của bạn, ví dụ: **Windows x64 Installer**).
+* **Link tải chính thức**: [Tải JDK 25 từ Oracle](https://www.oracle.com/java/technologies/downloads/#java25) (Chọn phiên bản phù hợp với hệ điều hành của bạn, ví dụ: **Windows x64 Installer**).
 * **Cài đặt**: Sau khi tải về, hãy chạy file cài đặt `.exe` và nhấn *Next* cho đến khi hoàn tất.
 
 > **💡 Những thứ bạn KHÔNG CẦN tải/cài đặt:**
